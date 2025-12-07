@@ -1,4 +1,4 @@
-# 🎓 RESUMEN DEL CAP 3. Manual Metodológico de Trabajo de Grado
+# 🎓 Resumen del Cap3. Manual Metodológico de Trabajo de Grado
 
 ---
 
