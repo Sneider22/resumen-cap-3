@@ -2,7 +2,7 @@
 
 ---
 
-Este repositorio contiene la versión digital y esquemática (Mapas Conceptuales / Cuadros Sinópticos) del capítulo 3 del Manual de Trabajos de Grado de la universidad Politécnico Santiago Mariño, diseñada para facilitar la comprensión de las **exigencias metodológicas** a estudiantes y tutores.
+Este repositorio contiene la versión digital y esquemática (Mapas Conceptuales) del capítulo 3 del Manual de Trabajos de Grado de la universidad Politécnico Santiago Mariño, diseñada para facilitar la comprensión de las **exigencias metodológicas** a estudiantes y tutores.
 
 ## Tabla de Contenidos
 
